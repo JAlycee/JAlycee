@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer | Strategic Communications Specialist | Metaverse Enthusiast
 ---------------------------------------------------------------------------------
 
-I've been coding for 1.5 years. I finally decided to go all in and joined LaunchCode in 2023. While I'm still learning, I've gained proficiency in the following areas: - \*\*Languages\*\*: \[JavaScript, Java, HTML, CSS\] - \*\*Frameworks\*\*: \[React\] - \*\*Tools\*\*: \[Visual Studio Code, IntelliJ IDEA, CodeSandbox, GitHub, Figma, Webflow\] ## 📚 Learning Journey My coding journey has been an enjoyable and insightful learning experience. I've gone from knowing very little about coding to learning JavaScript, Java, and React in just a short while. Each project I complete brings me closer to my goal of becoming a skilled developer. 🌌 Future Horizons My ultimate goal is to contribute to the growth and development of the Metaverse ecosystem, fostering meaningful connections, and building immersive digital experiences that redefine how we communicate and interact in this exciting new realm. ⬇️ Contact Me ⬇️ I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me.
+### I've been coding for 1.5 years. I finally decided to go all in and joined LaunchCode in 2023. 
+
+### While I'm still learning, I've gained proficiency in the following areas: - \*\*Languages\*\*: \[JavaScript, Java, HTML, CSS\] - \*\*Frameworks\*\*: \[React\] - \*\*Tools\*\*: \[Visual Studio Code, IntelliJ IDEA, CodeSandbox, GitHub, Figma, Webflow\] 
+#### 📚 Learning Journey : My coding journey has been an enjoyable and insightful learning experience. I've gone from knowing very little about coding to learning JavaScript, Java, and React in just a short while. Each project I complete brings me closer to my goal of becoming a skilled developer. 
+#### 🌌 Future Horizons : My ultimate goal is to contribute to the growth and development of the Metaverse ecosystem, fostering meaningful connections, and building immersive digital experiences that redefine how we communicate and interact in this exciting new realm. 
+### ⬇️ Contact Me ⬇️ I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me.
 
 * 🌍  I'm based in 📍Saint Louis
 * 🖥️  See my portfolio at [here](http://www.linkedin.com/in/jasminediltz/)
