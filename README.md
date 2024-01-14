@@ -14,7 +14,7 @@ JavaScript Developer | Strategic Communications Specialist | Metaverse Enthusias
 * 🌍  I'm based in 📍Saint Louis
 * 🖥️  See my portfolio at [here](http://www.linkedin.com/in/jasminediltz/)
 * ✉️  You can contact me at [JAlyceeArtistry@gmail.com](mailto:JAlyceeArtistry@gmail.com)
-* 🧠  I'm learning React + Three.js + Solidity
+* 🧠  I'm learning React + Spring Boot + Java
 * 🤝  I'm open to collaborating on Web3 Projects, JavaScript Projects, Front-End Development
 * ⚡  When I'm not coding, you'll find me rolling through life on roller skates. 🛼
 
