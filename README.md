@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer | Strategic Communications Specialist | Metaverse Enthusiast
 ---------------------------------------------------------------------------------
 
-### I've been coding for 1.5 years. I finally decided to go all in and joined LaunchCode in 2023. 
+### I've been coding for 1 year. I finally decided to go all in and joined LaunchCode in 2023. 
 
 ### While I'm still learning, I've gained proficiency in the following areas: - \*\*Languages\*\*: \[JavaScript, Java, HTML, CSS\] - \*\*Frameworks\*\*: \[React\] - \*\*Tools\*\*: \[Visual Studio Code, IntelliJ IDEA, CodeSandbox, GitHub, Figma, Webflow\] 
 #### 📚 Learning Journey : My coding journey has been an enjoyable and insightful learning experience. I've gone from knowing very little about coding to learning JavaScript, Java, and React in just a short while. Each project I complete brings me closer to my goal of becoming a skilled developer. 
